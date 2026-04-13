@@ -28,3 +28,6 @@ if settings.DEBUG:
 # git add .
 # git commit -m "second commit"
 # git push
+#Skipironn
+#vova03022011@gmail.com
+#Skprn564522
